@@ -1,0 +1,9 @@
+JSON: a lightweight data-interchange format, a text format that is completely language independent. 
+JSON is based on 2 structures: 
+1. a collections of key/value pairs. 
+2. an ordered list of values.
+
+In JSON, these structures take on these forms: 
+1. object: an unordered set of key/value pairs. E.g. { name1 : value1, name2 : value2 }
+2. array: an ordered collection of values. E.g. [ value1, value2, value3 ]
+3. value: a string (in " "), a number, true, false, null, an object, or an array.
